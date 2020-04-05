@@ -1,0 +1,36 @@
+#footer {
+    background-color: #F8F8F8;
+}
+
+.jumbotron {
+    background-color: #F3A6AE;
+}
+
+#login {
+    background-color: #F4F4F4;
+}
+
+#loginBtnGrp {
+    border-color: black;
+    border: 1px solid;
+    border-radius: 1px;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: black;
+    text-decoration: none;
+  }
+  
+a:active {
+    color: black;
+}
+
+#navBar {
+    background-color: #F2F2F3;
+}
+  
+  
