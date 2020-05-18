@@ -1,19 +1,61 @@
+body {
+   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+   
+}
+
+#navBar {
+    font-size: 11px;
+    
+}
+
+#menu {
+    font-size: 13px;
+    background-color: #F4F4F4;
+}
+
 #footer {
     background-color: #F8F8F8;
+    font-size: 14px;
 }
 
-.jumbotron {
-    background-color: #F3A6AE;
-}
 
-#login {
+#logIn {
     background-color: #F4F4F4;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+h7 {
+    color: #909097;
+}
+
+#disclaimer{
+    font-size: 12px;
 }
 
 #loginBtnGrp {
     border-color: black;
     border: 1px solid;
-    border-radius: 1px;
+    border-radius: 3px;
+    font-weight: 500;
+    font-size: 12px;
+    
+}
+
+#newsTitle {
+    font-size: 22px;
+}
+
+#logInOption {
+    font-size: 12px;
+}
+
+#logInPlaceholder{
+    font-size: 12px;
+}
+
+#logInBtn {
+    font-size: 12px;
 }
 
 a {
@@ -29,8 +71,44 @@ a:active {
     color: black;
 }
 
-#navBar {
-    background-color: #F2F2F3;
+
+.carousel-item {
+    height: 500px;
 }
-  
+
+#slider {
+    height: 500x;
+    overflow: hidden;
+    width: 100%;
+}
+
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    
+}
+.carousel-indicators {
+    /* bottom: -50px; */
+    
+}
+
+button {
+    font-size: 12px;
+}
+
+button:active {
+    background-color: #C2C2C5;
+}
+
+button:focus{
+    background-color: #C2C2C5;
+}
+
+#slider .a {
+    font-size: 18px;
+}
+
+
+
   
